@@ -1,7 +1,5 @@
 # 部署在cf workers + d1数据库的短网址生成代码
 
-![](screenshot.png)
-
 ## 主要功能
 
 1. api功能：创建短网址和删除短网址
@@ -33,3 +31,4 @@ time        | integer |
 
 ### 3、上传 worker.js 代码完成部署
 
+![](screenshot.png)
