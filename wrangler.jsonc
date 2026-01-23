@@ -1,0 +1,15 @@
+{
+    "name": "shorturl",
+    "main": "./_worker.js",
+    "compatibility_date": "2025-11-18",
+    "placement": {
+        "mode": "smart"
+    },
+    "d1_databases": [
+        {
+            "binding": "shorturl_d1",
+            "database_name": "shorturl",
+            "database_id": "a2fd73ba-455b-8998-a069-93645b82fdbd"
+        }
+    ]
+}
