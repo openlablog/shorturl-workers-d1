@@ -1,4 +1,4 @@
-# 部署在cf workers + d1数据库的短网址生成代码
+![shorturl-workers-d1](https://socialify.git.ci/openlablog/shorturl-workers-d1/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
 
 ## 主要功能
 
