@@ -25,7 +25,7 @@
 | token       | text    | ✔          |
 | time        | integer |             |
 
-### 2、创建workers：shorturl-workers
+### 2、创建workers：shorturl-workers-d1
 
 然后添加 d1数据库 绑定 workers，变量名称：shorturl_d1
 
