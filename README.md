@@ -11,19 +11,19 @@
 
 然后创建两个数据表：url_list 和 token_list，表结构如下
 
-**url_list表**
+**url_list 表**
 
-Column Name | Type | Primary Key
------------ | ---- | -----------
-key         | text | ✔
-value       | text |
+| Column Name | Type | Primary Key |
+| ----------- | ---- | ----------- |
+| key         | text | ✔          |
+| value       | text |             |
 
-**token_list表**
+**token_list 表**
 
-Column Name | Type    | Primary Key
------------ | ------- | -----------
-token       | text    | ✔
-time        | integer |
+| Column Name | Type    | Primary Key |
+| ----------- | ------- | ----------- |
+| token       | text    | ✔          |
+| time        | integer |             |
 
 ### 2、创建workers：shorturl-workers
 
