@@ -32,3 +32,7 @@
 ### 3、上传 worker.js 代码完成部署
 
 ![](screenshot.png)
+
+## 历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=openlablog/shorturl-workers-d1&type=date&legend=top-left)](https://www.star-history.com/#openlablog/shorturl-workers-d1&type=date&legend=top-left)
