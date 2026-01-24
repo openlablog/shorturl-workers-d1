@@ -1,4 +1,4 @@
-![shorturl-workers-d1](https://socialify.git.ci/openlablog/shorturl-workers-d1/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
+![](https://socialify.git.ci/openlablog/shorturl-workers-d1/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
 
 ## 主要功能
 
@@ -35,4 +35,4 @@
 
 ## 历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=openlablog/shorturl-workers-d1&type=date&legend=top-left)](https://www.star-history.com/#openlablog/shorturl-workers-d1&type=date&legend=top-left)
+![](https://api.star-history.com/svg?repos=openlablog/shorturl-workers-d1&type=date&legend=top-left)
