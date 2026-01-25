@@ -1,11 +1,11 @@
-![](https://socialify.git.ci/openlablog/shorturl-workers-d1/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
+![](https://socialify.git.ci/openlablog/shorturl-workers-d1/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light)
 
-## 主要功能
+## 功能
 
 1. api功能：创建短网址和删除短网址
 2. 表单POST提交token鉴权，可防止机器人提交
 
-## 部署方法
+## 部署
 
 ### 1、创建d1数据库：shorturl
 
@@ -32,7 +32,3 @@
 ### 3、上传 worker.js 代码完成部署
 
 ![](screenshot.png)
-
-## 历史
-
-![](https://api.star-history.com/svg?repos=openlablog/shorturl-workers-d1&type=date&legend=top-left)
